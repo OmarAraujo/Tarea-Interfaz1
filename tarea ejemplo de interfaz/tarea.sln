@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea ejemplo de interfaz", "tarea\tarea ejemplo de interfaz.csproj", "{4C11D2BC-F1CF-4B86-8F67-E56A3BCEA613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C11D2BC-F1CF-4B86-8F67-E56A3BCEA613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C11D2BC-F1CF-4B86-8F67-E56A3BCEA613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C11D2BC-F1CF-4B86-8F67-E56A3BCEA613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C11D2BC-F1CF-4B86-8F67-E56A3BCEA613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

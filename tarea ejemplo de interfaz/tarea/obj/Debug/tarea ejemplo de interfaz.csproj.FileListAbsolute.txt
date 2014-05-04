@@ -1,0 +1,7 @@
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\tarea\tarea\bin\Debug\tarea ejemplo de interfaz.exe
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\tarea\tarea\bin\Debug\tarea ejemplo de interfaz.pdb
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\tarea\tarea\obj\Debug\tarea ejemplo de interfaz.csprojResolveAssemblyReference.cache
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\tarea\tarea\obj\Debug\tarea.MainForm.resources
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\tarea\tarea\obj\Debug\tarea ejemplo de interfaz.csproj.GenerateResource.Cache
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\tarea\tarea\obj\Debug\tarea ejemplo de interfaz.exe
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\tarea\tarea\obj\Debug\tarea ejemplo de interfaz.pdb

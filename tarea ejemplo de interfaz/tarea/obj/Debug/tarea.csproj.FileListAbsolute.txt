@@ -1,0 +1,7 @@
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\tarea\tarea\bin\Debug\tarea.exe
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\tarea\tarea\bin\Debug\tarea.pdb
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\tarea\tarea\obj\Debug\tarea.csprojResolveAssemblyReference.cache
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\tarea\tarea\obj\Debug\tarea.MainForm.resources
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\tarea\tarea\obj\Debug\tarea.csproj.GenerateResource.Cache
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\tarea\tarea\obj\Debug\tarea.exe
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\tarea\tarea\obj\Debug\tarea.pdb
